@@ -50,7 +50,8 @@ This fix follows [themrrobert](https://github.com/themrrobert/neopets-flash-fix-
 **NeoPass**
 
 > [!NOTE]
-> **Since the new login page doesn't load right with Safari, IDK if using this workaround to login via NeoPass will work.** 
+> **Since the new login page doesn't load right with Safari, IDK if using this workaround to login via NeoPass will work.**
+
 In your default browser, *like chrome*:
 1. Browse to neopets.
 2. Open developer console (ctrl + shift + i).
