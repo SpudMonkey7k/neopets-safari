@@ -41,7 +41,7 @@ This fix follows [themrrobert](https://github.com/themrrobert/neopets-flash-fix-
 2. In Safari, click on the `Cog` and select `Show Menu Bar`. 
 3. Click on `Help` in the Menu Bar then click on `Installed Plug-ins`.
 > It should open a page showing that Flash and Shockwave are installed.
-4. head to https://neopets.com/vsilogin.phtml (old login page) to login. 
+4. Head to https://neopets.com/vsilogin.phtml (old login page) to login. 
 > Note that you will need to disable your 2fa to login via Safari. 
 9. Once logged in, head to https://neopets.com/games/classic.phtml to go to the game library. 
 > Note that the pages of the website that use the new layout will not work properly, but any page that still uses the old layout will work.
